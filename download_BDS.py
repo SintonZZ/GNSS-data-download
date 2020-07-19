@@ -16,8 +16,8 @@ input_ = "2020-001"
 bds_stas_dir = 'MultiGNSS.xlsx'
 
 # 用户名和密码
-username = "wuxue1"
-password = "Hehaibo809"
+username = " "
+password = " "
 
 # 定义驱动相关参数
 options = webdriver.ChromeOptions()
